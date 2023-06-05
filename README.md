@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 # Whack a Mole
- Nesse desafio, eu vou treina minas habilidades com flexbox!!! 
+ Nesse desafio, eu vou treina minhas habilidades com flexbox!!! 
 
 
  <p align="center">
