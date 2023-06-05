@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --mole-pad: 5.4rem;
+}
+
+.page {
+  display: flex;
+}
+
+#background img {
+  position: relative;
+  width: fit-content;
+}
+
+.moles {
+  position: absolute;
+  margin-top: 22rem;
+}
+
+.moles img {
+padding: 0 var(--mole-pad) var(--mole-pad);
+}
